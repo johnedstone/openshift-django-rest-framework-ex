@@ -1,0 +1,9 @@
+*.swp
+
+# Python
+*.py[co]
+*db.sqlite3
+celery.scheduler
+
+# OS
+.nfs*
